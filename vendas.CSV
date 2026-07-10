@@ -1,0 +1,27 @@
+﻿Data,Produto,Categoria,Quantidade,Preco_Unitario,Vendedor,Cidade
+2026-01-05,Notebook,Informática,2,3500,Ana,Recife
+2026-01-06,Mouse,Informática,10,80,Carlos,Olinda
+2026-01-07,Teclado,Informática,5,150,Ana,Recife
+2026-01-08,Monitor,Informática,3,1200,Marcos,Jaboatão
+2026-01-09,Cadeira Gamer,Móveis,2,950,Carlos,Recife
+2026-01-10,Fone Bluetooth,Eletrônicos,8,250,Ana,Olinda
+2026-01-11,Notebook,Informática,1,3500,Marcos,Recife
+2026-01-12,Mouse,Informática,7,80,Carlos,Paulista
+2026-01-13,Teclado,Informática,4,150,Ana,Recife
+2026-01-14,Monitor,Informática,2,1200,Marcos,Olinda
+2026-01-15,Webcam,Eletrônicos,6,300,Carlos,Recife
+2026-01-16,Impressora,Informática,2,900,Ana,Jaboatão
+2026-01-17,Notebook,Informática,3,3500,Marcos,Recife
+2026-01-18,Fone Bluetooth,Eletrônicos,5,250,Carlos,Olinda
+2026-01-19,Cadeira Gamer,Móveis,1,950,Ana,Paulista
+2026-01-20,Mouse,Informática,15,80,Marcos,Recife
+2026-01-21,Monitor,Informática,4,1200,Carlos,Jaboatão
+2026-01-22,Notebook,Informática,2,3500,Ana,Olinda
+2026-01-23,Webcam,Eletrônicos,3,300,Marcos,Recife
+2026-01-24,Impressora,Informática,1,900,Carlos,Paulista
+2026-01-25,Teclado,Informática,6,150,Ana,Recife
+2026-01-26,Mouse,Informática,12,80,Marcos,Olinda
+2026-01-27,Fone Bluetooth,Eletrônicos,7,250,Carlos,Recife
+2026-01-28,Monitor,Informática,2,1200,Ana,Jaboatão
+2026-01-29,Notebook,Informática,1,3500,Marcos,Recife
+2026-01-30,Cadeira Gamer,Móveis,3,950,Carlos,Olinda
